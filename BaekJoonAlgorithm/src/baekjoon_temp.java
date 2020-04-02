@@ -9,5 +9,6 @@ public class baekjoon_temp {
 		for(int tc = 1; tc <= T; tc++) {
 			
 		}
+		br.close();
 	}
 }
